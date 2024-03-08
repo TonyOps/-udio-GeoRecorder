@@ -1,4 +1,4 @@
-A aplicação "Áudio Geo Recorder" permite gravar o áudio automaticamente quando estão dentro de uma determinada distância de um local predefinido.
+A aplicação "Áudio Geo Recorder" permite gravar o áudio automaticamente quando se está dentro de uma determinada distância de um local predefinido.
 
 Utilizando dados de geolocalização, o aplicativo monitora a localização do usuário em tempo real e inicia a gravação de áudio quando ele se aproxima do local definido.
 
